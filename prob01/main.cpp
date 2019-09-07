@@ -46,7 +46,7 @@ int main()
 
   float amount;
   std::cout << "A double is stored in " << sizeof(double) << " bytes\n";
-  std::cout << "The variable \"amount\" is stored in " << sizeof(amount) << " bytes\n";
+  std::cout << "The variable \"size\" is stored in " << sizeof(amount) << " bytes\n";
 
   return 0;
 }
